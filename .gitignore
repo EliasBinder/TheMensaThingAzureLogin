@@ -97,3 +97,5 @@ buck-out/
 .expo/
 web-build/
 
+/example
+
